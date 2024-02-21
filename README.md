@@ -1,2 +1,2 @@
-# Sistema_Reservas_hotel
- Programa que simula una interfaz para manejar todo lo relacionado a reservaciones de un hotel, maneja habitaciones, número minimo de personas, recomandaciones de habitaciones según necesidad de usuarios, pagos, reportes.
+Hotel Reservation System
+A program that simulates an interface to handle everything related to hotel reservations, manages rooms, minimum number of people, room recommendations based on user needs, payments, reports.
